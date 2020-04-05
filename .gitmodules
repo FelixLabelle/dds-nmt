@@ -1,0 +1,3 @@
+[submodule "kneser-ney"]
+	path = kneser-ney
+	url = https://github.com/FelixLabelle/kneser-ney.git
